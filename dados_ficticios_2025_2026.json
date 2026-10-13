@@ -1,0 +1,3558 @@
+[
+  {
+    "ano": 2025,
+    "mes": 1,
+    "categoria": "Mercado",
+    "valor": 791.05,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 1,
+    "categoria": "Farmácia",
+    "valor": 378.05,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 1,
+    "categoria": "Combustível",
+    "valor": 442.16,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 1,
+    "categoria": "Almoço SENAC",
+    "valor": 394.32,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 1,
+    "categoria": "Casa",
+    "valor": 140.95,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 1,
+    "categoria": "Monk / Nina",
+    "valor": 173.52,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 1,
+    "categoria": "Estacionamento",
+    "valor": 179.97,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 1,
+    "categoria": "Perfumaria",
+    "valor": 137.75,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 1,
+    "categoria": "Seguro do carro",
+    "valor": 176.66,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 1,
+    "categoria": "Vestuário",
+    "valor": 179.09,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 1,
+    "categoria": "Bilhete Único",
+    "valor": 112.23,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 1,
+    "categoria": "Mecânico / Carro",
+    "valor": 338.15,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 1,
+    "categoria": "Táxi",
+    "valor": 89.68,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 1,
+    "categoria": "Alimentação",
+    "valor": 378.2,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 1,
+    "categoria": "Saúde / Dentista",
+    "valor": 243.01,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 1,
+    "categoria": "Outros",
+    "valor": 197.99,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 1,
+    "categoria": "Aluguel",
+    "valor": 1633.83,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 1,
+    "categoria": "Condomínio",
+    "valor": 526.15,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 1,
+    "categoria": "Energia",
+    "valor": 189.04,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 1,
+    "categoria": "Água",
+    "valor": 87.68,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 1,
+    "categoria": "Internet",
+    "valor": 112.04,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 2,
+    "categoria": "Mercado",
+    "valor": 1202.85,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 2,
+    "categoria": "Farmácia",
+    "valor": 302.35,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 2,
+    "categoria": "Combustível",
+    "valor": 363.81,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 2,
+    "categoria": "Almoço SENAC",
+    "valor": 420.34,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 2,
+    "categoria": "Casa",
+    "valor": 250.9,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 2,
+    "categoria": "Monk / Nina",
+    "valor": 259.05,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 2,
+    "categoria": "Estacionamento",
+    "valor": 226.01,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 2,
+    "categoria": "Perfumaria",
+    "valor": 133.84,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 2,
+    "categoria": "Seguro do carro",
+    "valor": 104.9,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 2,
+    "categoria": "Vestuário",
+    "valor": 154.41,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 2,
+    "categoria": "Bilhete Único",
+    "valor": 100.72,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 2,
+    "categoria": "Mecânico / Carro",
+    "valor": 244.86,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 2,
+    "categoria": "Táxi",
+    "valor": 74.27,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 2,
+    "categoria": "Alimentação",
+    "valor": 449.24,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 2,
+    "categoria": "Saúde / Dentista",
+    "valor": 337.21,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 2,
+    "categoria": "Outros",
+    "valor": 193.36,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 2,
+    "categoria": "Aluguel",
+    "valor": 1619.21,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 2,
+    "categoria": "Condomínio",
+    "valor": 520.75,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 2,
+    "categoria": "Energia",
+    "valor": 187.41,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 2,
+    "categoria": "Água",
+    "valor": 84.34,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 2,
+    "categoria": "Internet",
+    "valor": 108.89,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Mercado",
+    "valor": 1134.0,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Farmácia",
+    "valor": 377.0,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Combustível",
+    "valor": 323.15,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Almoço SENAC",
+    "valor": 317.58,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Casa",
+    "valor": 227.07,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Monk / Nina",
+    "valor": 228.92,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Estacionamento",
+    "valor": 167.26,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Perfumaria",
+    "valor": 170.52,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Seguro do carro",
+    "valor": 123.4,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Vestuário",
+    "valor": 163.88,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Bilhete Único",
+    "valor": 125.24,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Mecânico / Carro",
+    "valor": 591.19,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Táxi",
+    "valor": 77.44,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Alimentação",
+    "valor": 240.72,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Saúde / Dentista",
+    "valor": 239.88,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Outros",
+    "valor": 136.85,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Aluguel",
+    "valor": 1623.31,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Condomínio",
+    "valor": 520.44,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Energia",
+    "valor": 197.35,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Água",
+    "valor": 81.62,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 3,
+    "categoria": "Internet",
+    "valor": 111.35,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 4,
+    "categoria": "Mercado",
+    "valor": 1048.98,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 4,
+    "categoria": "Farmácia",
+    "valor": 372.77,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 4,
+    "categoria": "Combustível",
+    "valor": 357.01,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 4,
+    "categoria": "Almoço SENAC",
+    "valor": 399.94,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 4,
+    "categoria": "Casa",
+    "valor": 210.65,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 4,
+    "categoria": "Monk / Nina",
+    "valor": 207.85,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 4,
+    "categoria": "Estacionamento",
+    "valor": 164.77,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 4,
+    "categoria": "Perfumaria",
+    "valor": 171.68,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 4,
+    "categoria": "Seguro do carro",
+    "valor": 197.35,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 4,
+    "categoria": "Vestuário",
+    "valor": 178.83,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 4,
+    "categoria": "Bilhete Único",
+    "valor": 100.88,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 4,
+    "categoria": "Mecânico / Carro",
+    "valor": 318.87,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 4,
+    "categoria": "Táxi",
+    "valor": 66.4,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 4,
+    "categoria": "Alimentação",
+    "valor": 430.45,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 4,
+    "categoria": "Saúde / Dentista",
+    "valor": 296.19,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 4,
+    "categoria": "Outros",
+    "valor": 180.94,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 4,
+    "categoria": "Aluguel",
+    "valor": 1765.36,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 4,
+    "categoria": "Condomínio",
+    "valor": 506.59,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 4,
+    "categoria": "Energia",
+    "valor": 186.09,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 4,
+    "categoria": "Água",
+    "valor": 83.04,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 4,
+    "categoria": "Internet",
+    "valor": 104.86,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 5,
+    "categoria": "Mercado",
+    "valor": 1185.4,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 5,
+    "categoria": "Farmácia",
+    "valor": 402.59,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 5,
+    "categoria": "Combustível",
+    "valor": 426.03,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 5,
+    "categoria": "Almoço SENAC",
+    "valor": 321.17,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 5,
+    "categoria": "Casa",
+    "valor": 192.41,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 5,
+    "categoria": "Monk / Nina",
+    "valor": 276.16,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 5,
+    "categoria": "Estacionamento",
+    "valor": 140.59,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 5,
+    "categoria": "Perfumaria",
+    "valor": 131.29,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 5,
+    "categoria": "Seguro do carro",
+    "valor": 149.04,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 5,
+    "categoria": "Vestuário",
+    "valor": 212.21,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 5,
+    "categoria": "Bilhete Único",
+    "valor": 117.38,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 5,
+    "categoria": "Mecânico / Carro",
+    "valor": 296.94,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 5,
+    "categoria": "Táxi",
+    "valor": 97.88,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 5,
+    "categoria": "Alimentação",
+    "valor": 438.19,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 5,
+    "categoria": "Saúde / Dentista",
+    "valor": 413.73,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 5,
+    "categoria": "Outros",
+    "valor": 236.12,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 5,
+    "categoria": "Aluguel",
+    "valor": 1631.72,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 5,
+    "categoria": "Condomínio",
+    "valor": 519.66,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 5,
+    "categoria": "Energia",
+    "valor": 195.42,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 5,
+    "categoria": "Água",
+    "valor": 85.13,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 5,
+    "categoria": "Internet",
+    "valor": 109.48,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Mercado",
+    "valor": 1412.97,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Farmácia",
+    "valor": 498.42,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Combustível",
+    "valor": 541.67,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Almoço SENAC",
+    "valor": 311.67,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Casa",
+    "valor": 135.85,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Monk / Nina",
+    "valor": 179.87,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Estacionamento",
+    "valor": 168.12,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Perfumaria",
+    "valor": 95.9,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Seguro do carro",
+    "valor": 173.03,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Vestuário",
+    "valor": 162.85,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Bilhete Único",
+    "valor": 93.53,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Mecânico / Carro",
+    "valor": 190.35,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Táxi",
+    "valor": 50.26,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Alimentação",
+    "valor": 376.76,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Saúde / Dentista",
+    "valor": 383.53,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Outros",
+    "valor": 131.07,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Aluguel",
+    "valor": 1749.94,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Condomínio",
+    "valor": 497.14,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Energia",
+    "valor": 192.3,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Água",
+    "valor": 87.14,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 6,
+    "categoria": "Internet",
+    "valor": 115.02,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 7,
+    "categoria": "Mercado",
+    "valor": 1194.83,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 7,
+    "categoria": "Farmácia",
+    "valor": 412.47,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 7,
+    "categoria": "Combustível",
+    "valor": 334.68,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 7,
+    "categoria": "Almoço SENAC",
+    "valor": 275.72,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 7,
+    "categoria": "Casa",
+    "valor": 204.85,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 7,
+    "categoria": "Monk / Nina",
+    "valor": 253.82,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 7,
+    "categoria": "Estacionamento",
+    "valor": 220.27,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 7,
+    "categoria": "Perfumaria",
+    "valor": 131.87,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 7,
+    "categoria": "Seguro do carro",
+    "valor": 170.28,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 7,
+    "categoria": "Vestuário",
+    "valor": 129.95,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 7,
+    "categoria": "Bilhete Único",
+    "valor": 78.47,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 7,
+    "categoria": "Mecânico / Carro",
+    "valor": 302.84,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 7,
+    "categoria": "Táxi",
+    "valor": 100.56,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 7,
+    "categoria": "Alimentação",
+    "valor": 449.12,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 7,
+    "categoria": "Saúde / Dentista",
+    "valor": 296.76,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 7,
+    "categoria": "Outros",
+    "valor": 131.24,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 7,
+    "categoria": "Aluguel",
+    "valor": 1728.65,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 7,
+    "categoria": "Condomínio",
+    "valor": 532.19,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 7,
+    "categoria": "Energia",
+    "valor": 195.39,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 7,
+    "categoria": "Água",
+    "valor": 88.53,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 7,
+    "categoria": "Internet",
+    "valor": 107.87,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 8,
+    "categoria": "Mercado",
+    "valor": 1006.35,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 8,
+    "categoria": "Farmácia",
+    "valor": 457.17,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 8,
+    "categoria": "Combustível",
+    "valor": 444.63,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 8,
+    "categoria": "Almoço SENAC",
+    "valor": 250.38,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 8,
+    "categoria": "Casa",
+    "valor": 129.18,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 8,
+    "categoria": "Monk / Nina",
+    "valor": 156.3,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 8,
+    "categoria": "Estacionamento",
+    "valor": 213.09,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 8,
+    "categoria": "Perfumaria",
+    "valor": 91.78,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 8,
+    "categoria": "Seguro do carro",
+    "valor": 132.37,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 8,
+    "categoria": "Vestuário",
+    "valor": 155.95,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 8,
+    "categoria": "Bilhete Único",
+    "valor": 114.82,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 8,
+    "categoria": "Mecânico / Carro",
+    "valor": 192.65,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 8,
+    "categoria": "Táxi",
+    "valor": 77.05,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 8,
+    "categoria": "Alimentação",
+    "valor": 314.8,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 8,
+    "categoria": "Saúde / Dentista",
+    "valor": 255.95,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 8,
+    "categoria": "Outros",
+    "valor": 161.68,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 8,
+    "categoria": "Aluguel",
+    "valor": 1635.63,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 8,
+    "categoria": "Condomínio",
+    "valor": 532.89,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 8,
+    "categoria": "Energia",
+    "valor": 191.36,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 8,
+    "categoria": "Água",
+    "valor": 87.59,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 8,
+    "categoria": "Internet",
+    "valor": 106.19,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 9,
+    "categoria": "Mercado",
+    "valor": 1085.42,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 9,
+    "categoria": "Farmácia",
+    "valor": 360.2,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 9,
+    "categoria": "Combustível",
+    "valor": 389.36,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 9,
+    "categoria": "Almoço SENAC",
+    "valor": 337.51,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 9,
+    "categoria": "Casa",
+    "valor": 217.54,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 9,
+    "categoria": "Monk / Nina",
+    "valor": 150.92,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 9,
+    "categoria": "Estacionamento",
+    "valor": 156.65,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 9,
+    "categoria": "Perfumaria",
+    "valor": 104.89,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 9,
+    "categoria": "Seguro do carro",
+    "valor": 190.68,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 9,
+    "categoria": "Vestuário",
+    "valor": 119.28,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 9,
+    "categoria": "Bilhete Único",
+    "valor": 99.88,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 9,
+    "categoria": "Mecânico / Carro",
+    "valor": 739.28,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 9,
+    "categoria": "Táxi",
+    "valor": 73.97,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 9,
+    "categoria": "Alimentação",
+    "valor": 419.4,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 9,
+    "categoria": "Saúde / Dentista",
+    "valor": 232.57,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 9,
+    "categoria": "Outros",
+    "valor": 210.18,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 9,
+    "categoria": "Aluguel",
+    "valor": 1764.23,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 9,
+    "categoria": "Condomínio",
+    "valor": 491.09,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 9,
+    "categoria": "Energia",
+    "valor": 190.57,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 9,
+    "categoria": "Água",
+    "valor": 87.43,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 9,
+    "categoria": "Internet",
+    "valor": 110.19,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 10,
+    "categoria": "Mercado",
+    "valor": 1406.59,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 10,
+    "categoria": "Farmácia",
+    "valor": 289.44,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 10,
+    "categoria": "Combustível",
+    "valor": 542.26,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 10,
+    "categoria": "Almoço SENAC",
+    "valor": 292.32,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 10,
+    "categoria": "Casa",
+    "valor": 183.87,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 10,
+    "categoria": "Monk / Nina",
+    "valor": 201.57,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 10,
+    "categoria": "Estacionamento",
+    "valor": 119.64,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 10,
+    "categoria": "Perfumaria",
+    "valor": 114.85,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 10,
+    "categoria": "Seguro do carro",
+    "valor": 132.07,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 10,
+    "categoria": "Vestuário",
+    "valor": 145.25,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 10,
+    "categoria": "Bilhete Único",
+    "valor": 96.74,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 10,
+    "categoria": "Mecânico / Carro",
+    "valor": 340.53,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 10,
+    "categoria": "Táxi",
+    "valor": 72.08,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 10,
+    "categoria": "Alimentação",
+    "valor": 349.09,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 10,
+    "categoria": "Saúde / Dentista",
+    "valor": 260.44,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 10,
+    "categoria": "Outros",
+    "valor": 181.34,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 10,
+    "categoria": "Aluguel",
+    "valor": 1635.42,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 10,
+    "categoria": "Condomínio",
+    "valor": 525.13,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 10,
+    "categoria": "Energia",
+    "valor": 195.64,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 10,
+    "categoria": "Água",
+    "valor": 87.69,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 10,
+    "categoria": "Internet",
+    "valor": 113.83,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 11,
+    "categoria": "Mercado",
+    "valor": 873.53,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 11,
+    "categoria": "Farmácia",
+    "valor": 494.9,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 11,
+    "categoria": "Combustível",
+    "valor": 552.56,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 11,
+    "categoria": "Almoço SENAC",
+    "valor": 347.81,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 11,
+    "categoria": "Casa",
+    "valor": 181.56,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 11,
+    "categoria": "Monk / Nina",
+    "valor": 255.85,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 11,
+    "categoria": "Estacionamento",
+    "valor": 208.67,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 11,
+    "categoria": "Perfumaria",
+    "valor": 148.11,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 11,
+    "categoria": "Seguro do carro",
+    "valor": 194.71,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 11,
+    "categoria": "Vestuário",
+    "valor": 155.78,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 11,
+    "categoria": "Bilhete Único",
+    "valor": 74.07,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 11,
+    "categoria": "Mecânico / Carro",
+    "valor": 297.75,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 11,
+    "categoria": "Táxi",
+    "valor": 80.3,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 11,
+    "categoria": "Alimentação",
+    "valor": 366.4,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 11,
+    "categoria": "Saúde / Dentista",
+    "valor": 346.51,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 11,
+    "categoria": "Outros",
+    "valor": 210.82,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 11,
+    "categoria": "Aluguel",
+    "valor": 1709.49,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 11,
+    "categoria": "Condomínio",
+    "valor": 513.47,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 11,
+    "categoria": "Energia",
+    "valor": 184.57,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 11,
+    "categoria": "Água",
+    "valor": 83.25,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 11,
+    "categoria": "Internet",
+    "valor": 107.45,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 12,
+    "categoria": "Mercado",
+    "valor": 1111.96,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 12,
+    "categoria": "Farmácia",
+    "valor": 274.18,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 12,
+    "categoria": "Combustível",
+    "valor": 367.48,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 12,
+    "categoria": "Almoço SENAC",
+    "valor": 414.91,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 12,
+    "categoria": "Casa",
+    "valor": 150.08,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 12,
+    "categoria": "Monk / Nina",
+    "valor": 241.33,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 12,
+    "categoria": "Estacionamento",
+    "valor": 198.23,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 12,
+    "categoria": "Perfumaria",
+    "valor": 152.83,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 12,
+    "categoria": "Seguro do carro",
+    "valor": 115.98,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 12,
+    "categoria": "Vestuário",
+    "valor": 188.88,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 12,
+    "categoria": "Bilhete Único",
+    "valor": 97.34,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 12,
+    "categoria": "Mecânico / Carro",
+    "valor": 241.85,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 12,
+    "categoria": "Táxi",
+    "valor": 94.21,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 12,
+    "categoria": "Alimentação",
+    "valor": 305.8,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 12,
+    "categoria": "Saúde / Dentista",
+    "valor": 258.16,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 12,
+    "categoria": "Outros",
+    "valor": 153.47,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 12,
+    "categoria": "Aluguel",
+    "valor": 1625.69,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 12,
+    "categoria": "Condomínio",
+    "valor": 505.49,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 12,
+    "categoria": "Energia",
+    "valor": 197.56,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 12,
+    "categoria": "Água",
+    "valor": 87.35,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 12,
+    "categoria": "Internet",
+    "valor": 109.06,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 1,
+    "categoria": "Mercado",
+    "valor": 768.45,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 1,
+    "categoria": "Farmácia",
+    "valor": 293.35,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 1,
+    "categoria": "Combustível",
+    "valor": 317.14,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 1,
+    "categoria": "Almoço SENAC",
+    "valor": 251.98,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 1,
+    "categoria": "Casa",
+    "valor": 234.9,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 1,
+    "categoria": "Monk / Nina",
+    "valor": 242.35,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 1,
+    "categoria": "Estacionamento",
+    "valor": 235.07,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 1,
+    "categoria": "Perfumaria",
+    "valor": 127.9,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 1,
+    "categoria": "Seguro do carro",
+    "valor": 189.52,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 1,
+    "categoria": "Vestuário",
+    "valor": 200.13,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 1,
+    "categoria": "Bilhete Único",
+    "valor": 115.23,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 1,
+    "categoria": "Mecânico / Carro",
+    "valor": 331.28,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 1,
+    "categoria": "Táxi",
+    "valor": 106.21,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 1,
+    "categoria": "Alimentação",
+    "valor": 335.33,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 1,
+    "categoria": "Saúde / Dentista",
+    "valor": 255.93,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 1,
+    "categoria": "Outros",
+    "valor": 192.31,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 1,
+    "categoria": "Aluguel",
+    "valor": 1888.34,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 1,
+    "categoria": "Condomínio",
+    "valor": 561.06,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 1,
+    "categoria": "Energia",
+    "valor": 205.16,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 1,
+    "categoria": "Água",
+    "valor": 93.36,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 1,
+    "categoria": "Internet",
+    "valor": 118.72,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 2,
+    "categoria": "Mercado",
+    "valor": 1486.13,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 2,
+    "categoria": "Farmácia",
+    "valor": 374.81,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 2,
+    "categoria": "Combustível",
+    "valor": 616.15,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 2,
+    "categoria": "Almoço SENAC",
+    "valor": 306.4,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 2,
+    "categoria": "Casa",
+    "valor": 241.99,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 2,
+    "categoria": "Monk / Nina",
+    "valor": 220.27,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 2,
+    "categoria": "Estacionamento",
+    "valor": 121.78,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 2,
+    "categoria": "Perfumaria",
+    "valor": 161.65,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 2,
+    "categoria": "Seguro do carro",
+    "valor": 136.03,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 2,
+    "categoria": "Vestuário",
+    "valor": 245.03,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 2,
+    "categoria": "Bilhete Único",
+    "valor": 125.6,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 2,
+    "categoria": "Mecânico / Carro",
+    "valor": 227.44,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 2,
+    "categoria": "Táxi",
+    "valor": 97.36,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 2,
+    "categoria": "Alimentação",
+    "valor": 336.07,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 2,
+    "categoria": "Saúde / Dentista",
+    "valor": 405.92,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 2,
+    "categoria": "Outros",
+    "valor": 203.08,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 2,
+    "categoria": "Aluguel",
+    "valor": 1773.62,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 2,
+    "categoria": "Condomínio",
+    "valor": 543.89,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 2,
+    "categoria": "Energia",
+    "valor": 205.86,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 2,
+    "categoria": "Água",
+    "valor": 86.61,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 2,
+    "categoria": "Internet",
+    "valor": 117.99,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 3,
+    "categoria": "Mercado",
+    "valor": 849.72,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 3,
+    "categoria": "Farmácia",
+    "valor": 301.49,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 3,
+    "categoria": "Combustível",
+    "valor": 424.27,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 3,
+    "categoria": "Almoço SENAC",
+    "valor": 374.41,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 3,
+    "categoria": "Casa",
+    "valor": 230.61,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 3,
+    "categoria": "Monk / Nina",
+    "valor": 155.8,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 3,
+    "categoria": "Estacionamento",
+    "valor": 190.62,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 3,
+    "categoria": "Perfumaria",
+    "valor": 128.46,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 3,
+    "categoria": "Seguro do carro",
+    "valor": 146.35,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 3,
+    "categoria": "Vestuário",
+    "valor": 153.06,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 3,
+    "categoria": "Bilhete Único",
+    "valor": 98.52,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 3,
+    "categoria": "Mecânico / Carro",
+    "valor": 520.66,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 3,
+    "categoria": "Táxi",
+    "valor": 61.09,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 3,
+    "categoria": "Alimentação",
+    "valor": 395.08,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 3,
+    "categoria": "Saúde / Dentista",
+    "valor": 353.24,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 3,
+    "categoria": "Outros",
+    "valor": 256.25,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 3,
+    "categoria": "Aluguel",
+    "valor": 1835.11,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 3,
+    "categoria": "Condomínio",
+    "valor": 535.02,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 3,
+    "categoria": "Energia",
+    "valor": 196.47,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 3,
+    "categoria": "Água",
+    "valor": 86.93,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 3,
+    "categoria": "Internet",
+    "valor": 111.04,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 4,
+    "categoria": "Mercado",
+    "valor": 974.99,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 4,
+    "categoria": "Farmácia",
+    "valor": 399.81,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 4,
+    "categoria": "Combustível",
+    "valor": 395.07,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 4,
+    "categoria": "Almoço SENAC",
+    "valor": 296.7,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 4,
+    "categoria": "Casa",
+    "valor": 271.85,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 4,
+    "categoria": "Monk / Nina",
+    "valor": 245.06,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 4,
+    "categoria": "Estacionamento",
+    "valor": 223.08,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 4,
+    "categoria": "Perfumaria",
+    "valor": 147.73,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 4,
+    "categoria": "Seguro do carro",
+    "valor": 175.38,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 4,
+    "categoria": "Vestuário",
+    "valor": 245.42,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 4,
+    "categoria": "Bilhete Único",
+    "valor": 105.17,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 4,
+    "categoria": "Mecânico / Carro",
+    "valor": 257.55,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 4,
+    "categoria": "Táxi",
+    "valor": 89.74,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 4,
+    "categoria": "Alimentação",
+    "valor": 450.81,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 4,
+    "categoria": "Saúde / Dentista",
+    "valor": 278.16,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 4,
+    "categoria": "Outros",
+    "valor": 218.75,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 4,
+    "categoria": "Aluguel",
+    "valor": 1713.96,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 4,
+    "categoria": "Condomínio",
+    "valor": 566.45,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 4,
+    "categoria": "Energia",
+    "valor": 200.81,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 4,
+    "categoria": "Água",
+    "valor": 94.34,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 4,
+    "categoria": "Internet",
+    "valor": 118.69,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 5,
+    "categoria": "Mercado",
+    "valor": 1437.43,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 5,
+    "categoria": "Farmácia",
+    "valor": 524.66,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 5,
+    "categoria": "Combustível",
+    "valor": 602.88,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 5,
+    "categoria": "Almoço SENAC",
+    "valor": 316.37,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 5,
+    "categoria": "Casa",
+    "valor": 276.42,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 5,
+    "categoria": "Monk / Nina",
+    "valor": 301.53,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 5,
+    "categoria": "Estacionamento",
+    "valor": 147.71,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 5,
+    "categoria": "Perfumaria",
+    "valor": 174.73,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 5,
+    "categoria": "Seguro do carro",
+    "valor": 141.94,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 5,
+    "categoria": "Vestuário",
+    "valor": 148.15,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 5,
+    "categoria": "Bilhete Único",
+    "valor": 94.1,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 5,
+    "categoria": "Mecânico / Carro",
+    "valor": 335.89,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 5,
+    "categoria": "Táxi",
+    "valor": 84.99,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 5,
+    "categoria": "Alimentação",
+    "valor": 376.94,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 5,
+    "categoria": "Saúde / Dentista",
+    "valor": 609.55,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 5,
+    "categoria": "Outros",
+    "valor": 208.28,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 5,
+    "categoria": "Aluguel",
+    "valor": 1745.76,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 5,
+    "categoria": "Condomínio",
+    "valor": 547.52,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 5,
+    "categoria": "Energia",
+    "valor": 194.43,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 5,
+    "categoria": "Água",
+    "valor": 93.65,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 5,
+    "categoria": "Internet",
+    "valor": 121.85,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 6,
+    "categoria": "Mercado",
+    "valor": 1399.23,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 6,
+    "categoria": "Farmácia",
+    "valor": 498.99,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 6,
+    "categoria": "Combustível",
+    "valor": 536.97,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 6,
+    "categoria": "Almoço SENAC",
+    "valor": 408.82,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 6,
+    "categoria": "Casa",
+    "valor": 228.23,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 6,
+    "categoria": "Monk / Nina",
+    "valor": 164.56,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 6,
+    "categoria": "Estacionamento",
+    "valor": 165.13,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 6,
+    "categoria": "Perfumaria",
+    "valor": 165.14,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 6,
+    "categoria": "Seguro do carro",
+    "valor": 119.49,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 6,
+    "categoria": "Vestuário",
+    "valor": 217.05,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 6,
+    "categoria": "Bilhete Único",
+    "valor": 139.83,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 6,
+    "categoria": "Mecânico / Carro",
+    "valor": 205.54,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 6,
+    "categoria": "Táxi",
+    "valor": 66.27,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 6,
+    "categoria": "Alimentação",
+    "valor": 475.62,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 6,
+    "categoria": "Saúde / Dentista",
+    "valor": 335.96,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 6,
+    "categoria": "Outros",
+    "valor": 207.21,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 6,
+    "categoria": "Aluguel",
+    "valor": 1884.09,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 6,
+    "categoria": "Condomínio",
+    "valor": 534.14,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 6,
+    "categoria": "Energia",
+    "valor": 210.73,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 6,
+    "categoria": "Água",
+    "valor": 90.25,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 6,
+    "categoria": "Internet",
+    "valor": 118.28,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 7,
+    "categoria": "Mercado",
+    "valor": 881.14,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 7,
+    "categoria": "Farmácia",
+    "valor": 408.14,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 7,
+    "categoria": "Combustível",
+    "valor": 337.39,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 7,
+    "categoria": "Almoço SENAC",
+    "valor": 394.17,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 7,
+    "categoria": "Casa",
+    "valor": 184.55,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 7,
+    "categoria": "Monk / Nina",
+    "valor": 192.57,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 7,
+    "categoria": "Estacionamento",
+    "valor": 124.0,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 7,
+    "categoria": "Perfumaria",
+    "valor": 151.62,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 7,
+    "categoria": "Seguro do carro",
+    "valor": 190.33,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 7,
+    "categoria": "Vestuário",
+    "valor": 143.19,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 7,
+    "categoria": "Bilhete Único",
+    "valor": 89.36,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 7,
+    "categoria": "Mecânico / Carro",
+    "valor": 315.69,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 7,
+    "categoria": "Táxi",
+    "valor": 74.18,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 7,
+    "categoria": "Alimentação",
+    "valor": 508.29,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 7,
+    "categoria": "Saúde / Dentista",
+    "valor": 250.05,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 7,
+    "categoria": "Outros",
+    "valor": 230.83,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 7,
+    "categoria": "Aluguel",
+    "valor": 1713.6,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 7,
+    "categoria": "Condomínio",
+    "valor": 546.33,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 7,
+    "categoria": "Energia",
+    "valor": 201.0,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 7,
+    "categoria": "Água",
+    "valor": 89.4,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 7,
+    "categoria": "Internet",
+    "valor": 120.24,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 8,
+    "categoria": "Mercado",
+    "valor": 1469.06,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 8,
+    "categoria": "Farmácia",
+    "valor": 539.08,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 8,
+    "categoria": "Combustível",
+    "valor": 632.25,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 8,
+    "categoria": "Almoço SENAC",
+    "valor": 263.14,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 8,
+    "categoria": "Casa",
+    "valor": 210.65,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 8,
+    "categoria": "Monk / Nina",
+    "valor": 179.64,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 8,
+    "categoria": "Estacionamento",
+    "valor": 185.78,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 8,
+    "categoria": "Perfumaria",
+    "valor": 109.67,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 8,
+    "categoria": "Seguro do carro",
+    "valor": 201.24,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 8,
+    "categoria": "Vestuário",
+    "valor": 188.32,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 8,
+    "categoria": "Bilhete Único",
+    "valor": 131.5,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 8,
+    "categoria": "Mecânico / Carro",
+    "valor": 337.24,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 8,
+    "categoria": "Táxi",
+    "valor": 54.13,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 8,
+    "categoria": "Alimentação",
+    "valor": 350.74,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 8,
+    "categoria": "Saúde / Dentista",
+    "valor": 289.18,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 8,
+    "categoria": "Outros",
+    "valor": 158.93,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 8,
+    "categoria": "Aluguel",
+    "valor": 1739.69,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 8,
+    "categoria": "Condomínio",
+    "valor": 546.55,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 8,
+    "categoria": "Energia",
+    "valor": 193.88,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 8,
+    "categoria": "Água",
+    "valor": 94.47,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 8,
+    "categoria": "Internet",
+    "valor": 116.42,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 9,
+    "categoria": "Mercado",
+    "valor": 1446.81,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 9,
+    "categoria": "Farmácia",
+    "valor": 468.8,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 9,
+    "categoria": "Combustível",
+    "valor": 433.05,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 9,
+    "categoria": "Almoço SENAC",
+    "valor": 367.2,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 9,
+    "categoria": "Casa",
+    "valor": 229.43,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 9,
+    "categoria": "Monk / Nina",
+    "valor": 206.21,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 9,
+    "categoria": "Estacionamento",
+    "valor": 231.77,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 9,
+    "categoria": "Perfumaria",
+    "valor": 105.46,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 9,
+    "categoria": "Seguro do carro",
+    "valor": 161.06,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 9,
+    "categoria": "Vestuário",
+    "valor": 228.45,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 9,
+    "categoria": "Bilhete Único",
+    "valor": 117.29,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 9,
+    "categoria": "Mecânico / Carro",
+    "valor": 625.24,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 9,
+    "categoria": "Táxi",
+    "valor": 87.05,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 9,
+    "categoria": "Alimentação",
+    "valor": 273.83,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 9,
+    "categoria": "Saúde / Dentista",
+    "valor": 378.88,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 9,
+    "categoria": "Outros",
+    "valor": 141.55,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 9,
+    "categoria": "Aluguel",
+    "valor": 1801.07,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 9,
+    "categoria": "Condomínio",
+    "valor": 530.44,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 9,
+    "categoria": "Energia",
+    "valor": 206.5,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 9,
+    "categoria": "Água",
+    "valor": 87.63,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 9,
+    "categoria": "Internet",
+    "valor": 114.56,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 10,
+    "categoria": "Mercado",
+    "valor": 1156.28,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 10,
+    "categoria": "Farmácia",
+    "valor": 358.85,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 10,
+    "categoria": "Combustível",
+    "valor": 603.22,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 10,
+    "categoria": "Almoço SENAC",
+    "valor": 392.13,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 10,
+    "categoria": "Casa",
+    "valor": 259.41,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 10,
+    "categoria": "Monk / Nina",
+    "valor": 214.95,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 10,
+    "categoria": "Estacionamento",
+    "valor": 140.79,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 10,
+    "categoria": "Perfumaria",
+    "valor": 172.52,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 10,
+    "categoria": "Seguro do carro",
+    "valor": 128.46,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 10,
+    "categoria": "Vestuário",
+    "valor": 210.6,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 10,
+    "categoria": "Bilhete Único",
+    "valor": 93.34,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 10,
+    "categoria": "Mecânico / Carro",
+    "valor": 367.53,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 10,
+    "categoria": "Táxi",
+    "valor": 77.14,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 10,
+    "categoria": "Alimentação",
+    "valor": 463.64,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 10,
+    "categoria": "Saúde / Dentista",
+    "valor": 292.15,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 10,
+    "categoria": "Outros",
+    "valor": 150.56,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 10,
+    "categoria": "Aluguel",
+    "valor": 1845.79,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 10,
+    "categoria": "Condomínio",
+    "valor": 549.08,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 10,
+    "categoria": "Energia",
+    "valor": 193.9,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 10,
+    "categoria": "Água",
+    "valor": 88.01,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 10,
+    "categoria": "Internet",
+    "valor": 120.51,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 11,
+    "categoria": "Mercado",
+    "valor": 1009.13,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 11,
+    "categoria": "Farmácia",
+    "valor": 500.7,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 11,
+    "categoria": "Combustível",
+    "valor": 453.52,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 11,
+    "categoria": "Almoço SENAC",
+    "valor": 257.19,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 11,
+    "categoria": "Casa",
+    "valor": 226.48,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 11,
+    "categoria": "Monk / Nina",
+    "valor": 188.28,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 11,
+    "categoria": "Estacionamento",
+    "valor": 239.56,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 11,
+    "categoria": "Perfumaria",
+    "valor": 148.54,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 11,
+    "categoria": "Seguro do carro",
+    "valor": 117.88,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 11,
+    "categoria": "Vestuário",
+    "valor": 159.98,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 11,
+    "categoria": "Bilhete Único",
+    "valor": 101.17,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 11,
+    "categoria": "Mecânico / Carro",
+    "valor": 286.21,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 11,
+    "categoria": "Táxi",
+    "valor": 55.24,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 11,
+    "categoria": "Alimentação",
+    "valor": 440.79,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 11,
+    "categoria": "Saúde / Dentista",
+    "valor": 569.57,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 11,
+    "categoria": "Outros",
+    "valor": 175.27,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 11,
+    "categoria": "Aluguel",
+    "valor": 1834.29,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 11,
+    "categoria": "Condomínio",
+    "valor": 563.46,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 11,
+    "categoria": "Energia",
+    "valor": 209.63,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 11,
+    "categoria": "Água",
+    "valor": 93.23,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 11,
+    "categoria": "Internet",
+    "valor": 121.88,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 12,
+    "categoria": "Mercado",
+    "valor": 1283.77,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 12,
+    "categoria": "Farmácia",
+    "valor": 418.63,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 12,
+    "categoria": "Combustível",
+    "valor": 377.63,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 12,
+    "categoria": "Almoço SENAC",
+    "valor": 305.43,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 12,
+    "categoria": "Casa",
+    "valor": 184.09,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 12,
+    "categoria": "Monk / Nina",
+    "valor": 297.09,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 12,
+    "categoria": "Estacionamento",
+    "valor": 208.79,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 12,
+    "categoria": "Perfumaria",
+    "valor": 94.66,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 12,
+    "categoria": "Seguro do carro",
+    "valor": 165.42,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 12,
+    "categoria": "Vestuário",
+    "valor": 154.7,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 12,
+    "categoria": "Bilhete Único",
+    "valor": 92.3,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 12,
+    "categoria": "Mecânico / Carro",
+    "valor": 337.44,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 12,
+    "categoria": "Táxi",
+    "valor": 77.42,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 12,
+    "categoria": "Alimentação",
+    "valor": 457.05,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 12,
+    "categoria": "Saúde / Dentista",
+    "valor": 312.74,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 12,
+    "categoria": "Outros",
+    "valor": 250.09,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 12,
+    "categoria": "Aluguel",
+    "valor": 1772.94,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 12,
+    "categoria": "Condomínio",
+    "valor": 515.6,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 12,
+    "categoria": "Energia",
+    "valor": 195.76,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 12,
+    "categoria": "Água",
+    "valor": 86.68,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2026,
+    "mes": 12,
+    "categoria": "Internet",
+    "valor": 120.7,
+    "origem": "Casa"
+  },
+  {
+    "ano": 2025,
+    "mes": 4,
+    "categoria": "VIAGEM TRABALHO REEMBOLSO",
+    "valor": 154.27,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2025,
+    "mes": 8,
+    "categoria": "VIAGEM TRABALHO REEMBOLSO",
+    "valor": 137.21,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 4,
+    "categoria": "VIAGEM TRABALHO REEMBOLSO",
+    "valor": 150.23,
+    "origem": "Cartão"
+  },
+  {
+    "ano": 2026,
+    "mes": 8,
+    "categoria": "VIAGEM TRABALHO REEMBOLSO",
+    "valor": 167.09,
+    "origem": "Cartão"
+  }
+]

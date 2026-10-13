@@ -1,0 +1,7 @@
+# Evite versionar dados privados e saídas temporárias
+.env
+*.key
+*.pem
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
